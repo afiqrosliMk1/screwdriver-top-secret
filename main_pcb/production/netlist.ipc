@@ -1,0 +1,46 @@
+P  JOB   main_pcb                                                               
+P  CODE  00                                                                     
+P  UNITS CUST 0                                                                 
+P  arrayDim   N                                                                 
+P  VER   IPC-D-356A                                                             
+P  IMAGE PRIMARY                                                                
+P  NNAMEM0000 unconnected-(SW1-Pad1)                                            
+P  NNAMEM0001 unconnected-(SW1-Pad2)                                            
+P  NNAMEM0002 unconnected-(SW1-Pad3)                                            
+P  NNAMEM0003 unconnected-(SW1-Pad4)                                            
+P  NNAMEM0004 unconnected-(SW1-Pad5)                                            
+P  NNAMEM0005 unconnected-(SW1-Pad6)                                            
+P  NNAMEM0006 unconnected-(SW1-Pad7)                                            
+P  NNAMEM0007 unconnected-(SW1-Pad8)                                            
+P  NNAMEM0008 unconnected-(USB1-CC1-Pad3)                                       
+P  NNAMEM0009 unconnected-(USB1-CC2-Pad4)                                       
+P  NNAMEM000A unconnected-(USB1-GND-Pad1)                                       
+P  NNAMEM000B unconnected-(USB1-GND-Pad6)                                       
+P  NNAMEM000C unconnected-(USB1-SHELL-Pad7)                                     
+P  NNAMEM000D unconnected-(USB1-SHELL-Pad8)                                     
+P  NNAMEM000E unconnected-(USB1-VBUS-Pad2)                                      
+P  NNAMEM000F unconnected-(USB1-VBUS-Pad5)                                      
+317M0000            SW1   -1    D0354PA00X+043386Y-053071X0630Y0000R000 S0      
+317M0001            SW1   -2    D0354PA00X+044173Y-053071X0630Y0000R000 S0      
+317M0002            SW1   -3    D0354PA00X+045748Y-053071X0630Y0000R000 S0      
+317M0003            SW1   -4    D0354PA00X+046535Y-053071X0630Y0000R000 S0      
+317M0004            SW1   -5    D0354PA00X+046535Y-051732X0630Y0000R000 S0      
+317M0005            SW1   -6    D0354PA00X+045748Y-051732X0630Y0000R000 S0      
+317M0006            SW1   -7    D0354PA00X+044173Y-051732X0630Y0000R000 S0      
+317M0007            SW1   -8    D0354PA00X+043386Y-051732X0630Y0000R000 S0      
+327M0008            USB1  -3          A01X+068843Y-052626X0276Y0453R270 S2      
+327M0009            USB1  -4          A01X+068843Y-052232X0276Y0453R270 S2      
+327M000A            USB1  -1          A01X+068843Y-053512X0315Y0453R270 S2      
+327M000B            USB1  -6          A01X+068843Y-051346X0315Y0453R270 S2      
+317M000C            USB1  -7    D0236PA00X+069173Y-054622X0394Y0669R270 S0      
+317M000C            USB1  -7    D0236PA00X+070591Y-054622X0394Y0827R270 S0      
+317M000D            USB1  -8    D0236PA00X+069173Y-050236X0394Y0669R270 S0      
+317M000D            USB1  -8    D0236PA00X+070591Y-050236X0394Y0827R270 S0      
+327M000E            USB1  -2          A01X+068843Y-053028X0299Y0453R270 S2      
+327M000F            USB1  -5          A01X+068843Y-051831X0299Y0453R270 S2      
+317N/C                    -1    D0433PA00X+039823Y-055079X1339Y0669R000 S0      
+317N/C                    -1    D0433PA00X+039823Y-049724X1339Y0669R000 S0      
+317N/C                    -1    D0433PA00X+038642Y-055079X1339Y0669R000 S0      
+317N/C                    -1    D0433PA00X+038642Y-049724X1339Y0669R000 S0      
+317N/C              REF** -1    D0433PA00X+039232Y-052402X1339Y0669R000 S0      
+999                                                                             

@@ -1,0 +1,16 @@
+# KiCad autosaves
+_autosave-*
+
+# KiCad locks
+*.kicad_pro.lck
+*.kicad_sch.lck
+*.kicad_pcb.lck
+
+# Local settings
+*.kicad_prl
+
+# Backups
+main_pcb-backups/
+
+# Editor temporary files
+*~
